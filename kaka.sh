@@ -148,6 +148,6 @@ clear
 echo -e "$(<ghost47.txt)"
 sleep 1
 clear
-echo -e "$(<ghost48.txt)"
+echo -e "\033[92m $(<ghost48.txt)"
 sleep 2
 done
